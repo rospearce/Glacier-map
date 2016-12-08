@@ -25,6 +25,16 @@ var glaciers = [{
 		}
 ];
 
+function getColor(d) {
+    return d > 3000  ? '#C7432B' :
+           d > 2500  ? '#A8524B' :
+           d > 2000   ? '#8A616C' :
+           d > 1500   ? '#6B708C' :
+           d > 1000   ? '#4D7FAD' :
+					 d > 500   ? '#4D7FAD' :
+                      '#2F8FCE';
+}
+
 var geojsonMarkerOptions = {
     radius: 8,
     fillColor: "#ff7800",
