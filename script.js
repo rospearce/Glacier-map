@@ -509,8 +509,8 @@ function style(feature) {
         weight: 1.5,
         opacity: 0.85,
         color: 'white',
-        fillOpacity: 0.9,
-			  radius: 16,
+        fillOpacity: 0.85,
+			  radius: 15,
     };
 }
 
