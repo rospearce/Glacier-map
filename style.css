@@ -3,3 +3,12 @@
 body {
 	margin: 0;
 }
+
+p {
+	font-family: PT Sans, Arial;
+}
+
+h1 {
+	font-family: PT Sans, Arial;
+	font-weight: bold;
+}

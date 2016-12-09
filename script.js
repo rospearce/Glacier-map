@@ -15,10 +15,10 @@ var glaciers = [
 	       "coordinates":  [ 10.77,46.8 ]
 	    },
 	    "properties": {
-	    "Name":"Hintereisferner",
-	    "Region":"E. Alps",
+	    "name":"Hintereisferner",
+	    "region":"E. Alps",
 	    "change":-2800,
-	    "Period":"1880-2010",
+	    "period":"1880-2010",
 			"popupContent": "Hintereisferner"
 	    }
 	  },
@@ -29,10 +29,10 @@ var glaciers = [
 	       "coordinates":  [ 8.33,46.44 ]
 	    },
 	    "properties": {
-	    "Name":"Gries",
-	    "Region":"W. Alps",
+	    "name":"Gries",
+	    "region":"W. Alps",
 	    "change":-2100,
-	    "Period":"1880-2010",
+	    "period":"1880-2010",
 			"popupContent": "Gries"
 	    }
 	  },
@@ -43,10 +43,10 @@ var glaciers = [
 	       "coordinates":  [ 7.13,61.72 ]
 	    },
 	    "properties": {
-	    "Name":"Nigardsbreen",
-	    "Region":"W. Nor.",
+	    "name":"Nigardsbreen",
+	    "region":"W. Nor.",
 	    "change":-3600,
-	    "Period":"1880-2010"
+	    "period":"1880-2010"
 	    }
 	  },
 	  {
@@ -56,10 +56,10 @@ var glaciers = [
 	       "coordinates":  [ -121.05,48.37 ]
 	    },
 	    "properties": {
-	    "Name":"South Cascade",
-	    "Region":"N Casc. Mtns",
+	    "name":"South Cascade",
+	    "region":"N Casc. Mtns",
 	    "change":-2300,
-	    "Period":"1890-2007"
+	    "period":"1890-2007"
 	    }
 	  },
 	  {
@@ -69,10 +69,10 @@ var glaciers = [
 	       "coordinates":  [ 161,54.68 ]
 	    },
 	    "properties": {
-	    "Name":"Koryto",
-	    "Region":"Kamchatka",
+	    "name":"Koryto",
+	    "region":"Kamchatka",
 	    "change":-850,
-	    "Period":"1880-2000"
+	    "period":"1880-2000"
 	    }
 	  },
 	  {
@@ -82,10 +82,10 @@ var glaciers = [
 	       "coordinates":  [ 170.22,-43.5 ]
 	    },
 	    "properties": {
-	    "Name":"Franz Josef",
-	    "Region":"New Zea.",
+	    "name":"Franz Josef",
+	    "region":"New Zea.",
 	    "change":-3200,
-	    "Period":"1880-2005"
+	    "period":"1880-2005"
 	    }
 	  },
 	  {
@@ -95,10 +95,10 @@ var glaciers = [
 	       "coordinates":  [ -71.83,-41.15 ]
 	    },
 	    "properties": {
-	    "Name":"Frias",
-	    "Region":"Andes",
+	    "name":"Frias",
+	    "region":"Andes",
 	    "change":-1700,
-	    "Period":"1880-2009"
+	    "period":"1880-2009"
 	    }
 	  },
 	  {
@@ -108,10 +108,10 @@ var glaciers = [
 	       "coordinates":  [ -148.92,60.4 ]
 	    },
 	    "properties": {
-	    "Name":"Wolverine",
-	    "Region":"Kenai Mtns",
+	    "name":"Wolverine",
+	    "region":"Kenai Mtns",
 	    "change":-770,
-	    "Period":"1880-2006"
+	    "period":"1880-2006"
 	    }
 	  },
 	  {
@@ -121,10 +121,10 @@ var glaciers = [
 	       "coordinates":  [ -116.53,51.67 ]
 	    },
 	    "properties": {
-	    "Name":"Peyto",
-	    "Region":"Rocky Mtns",
+	    "name":"Peyto",
+	    "region":"Rocky Mtns",
 	    "change":-2400,
-	    "Period":"1897-2004"
+	    "period":"1897-2004"
 	    }
 	  },
 	  {
@@ -134,10 +134,10 @@ var glaciers = [
 	       "coordinates":  [ -149.78,60.17 ]
 	    },
 	    "properties": {
-	    "Name":"Exit",
-	    "Region":"Kenai Mtns",
+	    "name":"Exit",
+	    "region":"Kenai Mtns",
 	    "change":-2100,
-	    "Period":"1880-2006"
+	    "period":"1880-2006"
 	    }
 	  },
 	  {
@@ -147,10 +147,10 @@ var glaciers = [
 	       "coordinates":  [ -117.25,52.2 ]
 	    },
 	    "properties": {
-	    "Name":"Athabasca",
-	    "Region":"Rocky Mtns",
+	    "name":"Athabasca",
+	    "region":"Rocky Mtns",
 	    "change":-2000,
-	    "Period":"1880-1995"
+	    "period":"1880-1995"
 	    }
 	  },
 	  {
@@ -160,10 +160,10 @@ var glaciers = [
 	       "coordinates":  [ -117.13,52.2 ]
 	    },
 	    "properties": {
-	    "Name":"Saskatchewan",
-	    "Region":"Rocky Mtns",
+	    "name":"Saskatchewan",
+	    "region":"Rocky Mtns",
 	    "change":-2700,
-	    "Period":"1895-1995"
+	    "period":"1895-1995"
 	    }
 	  },
 	  {
@@ -173,10 +173,10 @@ var glaciers = [
 	       "coordinates":  [ -121.75,46.78 ]
 	    },
 	    "properties": {
-	    "Name":"Nisqually",
-	    "Region":"N. Casc. Mtns",
+	    "name":"Nisqually",
+	    "region":"N. Casc. Mtns",
 	    "change":-2100,
-	    "Period":"1880-2001"
+	    "period":"1880-2001"
 	    }
 	  },
 	  {
@@ -186,10 +186,10 @@ var glaciers = [
 	       "coordinates":  [ -123.68,47.82 ]
 	    },
 	    "properties": {
-	    "Name":"Blue",
-	    "Region":"Olympic Mtns",
+	    "name":"Blue",
+	    "region":"Olympic Mtns",
 	    "change":-940,
-	    "Period":"1880-1999"
+	    "period":"1880-1999"
 	    }
 	  },
 	  {
@@ -199,10 +199,10 @@ var glaciers = [
 	       "coordinates":  [ 87.75,50.08 ]
 	    },
 	    "properties": {
-	    "Name":"Maliy Aktru",
-	    "Region":"Altai Mtns",
+	    "name":"Maliy Aktru",
+	    "region":"Altai Mtns",
 	    "change":-440,
-	    "Period":"1911-2005"
+	    "period":"1911-2005"
 	    }
 	  },
 	  {
@@ -212,10 +212,10 @@ var glaciers = [
 	       "coordinates":  [ 42.77,43.2 ]
 	    },
 	    "properties": {
-	    "Name":"Djankuat",
-	    "Region":"Caucasus",
+	    "name":"Djankuat",
+	    "region":"Caucasus",
 	    "change":-1200,
-	    "Period":"1887-2010"
+	    "period":"1887-2010"
 	    }
 	  },
 	  {
@@ -225,10 +225,10 @@ var glaciers = [
 	       "coordinates":  [ 77.08,43.05 ]
 	    },
 	    "properties": {
-	    "Name":"Ts.Tuyuksuyskiy",
-	    "Region":"Tien Shan",
+	    "name":"Ts.Tuyuksuyskiy",
+	    "region":"Tien Shan",
 	    "change":-1100,
-	    "Period":"1923-2010"
+	    "period":"1923-2010"
 	    }
 	  },
 	  {
@@ -238,10 +238,10 @@ var glaciers = [
 	       "coordinates":  [ 74.49,42.46 ]
 	    },
 	    "properties": {
-	    "Name":"Golubina",
-	    "Region":"Tien Shan",
+	    "name":"Golubina",
+	    "region":"Tien Shan",
 	    "change":-930,
-	    "Period":"1880-2003"
+	    "period":"1880-2003"
 	    }
 	  },
 	  {
@@ -251,10 +251,10 @@ var glaciers = [
 	       "coordinates":  [ 42.47,43.3 ]
 	    },
 	    "properties": {
-	    "Name":"Garabashi",
-	    "Region":"Caucasus",
+	    "name":"Garabashi",
+	    "region":"Caucasus",
 	    "change":-1600,
-	    "Period":"1887-2010"
+	    "period":"1887-2010"
 	    }
 	  },
 	  {
@@ -264,10 +264,10 @@ var glaciers = [
 	       "coordinates":  [ 87.77,49.78 ]
 	    },
 	    "properties": {
-	    "Name":"Sofiyskiy",
-	    "Region":"Altai Mtns",
+	    "name":"Sofiyskiy",
+	    "region":"Altai Mtns",
 	    "change":-1700,
-	    "Period":"1898-2001"
+	    "period":"1898-2001"
 	    }
 	  },
 	  {
@@ -277,10 +277,10 @@ var glaciers = [
 	       "coordinates":  [ 80.23,45.08 ]
 	    },
 	    "properties": {
-	    "Name":"Shumsky",
-	    "Region":"Dzhungarsky",
+	    "name":"Shumsky",
+	    "region":"Dzhungarsky",
 	    "change":-1200,
-	    "Period":"1880-2010"
+	    "period":"1880-2010"
 	    }
 	  },
 	  {
@@ -290,10 +290,10 @@ var glaciers = [
 	       "coordinates":  [ -72.02,-42.13 ]
 	    },
 	    "properties": {
-	    "Name":"Esperanza Norte",
-	    "Region":"N. Patagonia",
+	    "name":"Esperanza Norte",
+	    "region":"N. Patagonia",
 	    "change":-2700,
-	    "Period":"1880-2007"
+	    "period":"1880-2007"
 	    }
 	  },
 	  {
@@ -303,10 +303,10 @@ var glaciers = [
 	       "coordinates":  [ -73.18,-46.9 ]
 	    },
 	    "properties": {
-	    "Name":"Soler",
-	    "Region":"N. Patagonia",
+	    "name":"Soler",
+	    "region":"N. Patagonia",
 	    "change":-980,
-	    "Period":"1880-2005"
+	    "period":"1880-2005"
 	    }
 	  },
 	  {
@@ -316,10 +316,10 @@ var glaciers = [
 	       "coordinates":  [ -72.33,-49.35 ]
 	    },
 	    "properties": {
-	    "Name":"Torre",
-	    "Region":"S. Patagonia",
+	    "name":"Torre",
+	    "region":"S. Patagonia",
 	    "change":-2100,
-	    "Period":"1880-2007"
+	    "period":"1880-2007"
 	    }
 	  },
 	  {
@@ -329,10 +329,10 @@ var glaciers = [
 	       "coordinates":  [ -70.8,-13.9 ]
 	    },
 	    "properties": {
-	    "Name":"Quelccaya (Huancane)",
-	    "Region":"Trop. Andes",
+	    "name":"Quelccaya (Huancane)",
+	    "region":"Trop. Andes",
 	    "change":-1000,
-	    "Period":"1880-2010"
+	    "period":"1880-2010"
 	    }
 	  },
 	  {
@@ -342,10 +342,10 @@ var glaciers = [
 	       "coordinates":  [ 170.15,-43.53 ]
 	    },
 	    "properties": {
-	    "Name":"Fox",
-	    "Region":"New Zea.",
+	    "name":"Fox",
+	    "region":"New Zea.",
 	    "change":-2700,
-	    "Period":"1894-2009"
+	    "period":"1894-2009"
 	    }
 	  },
 	  {
@@ -355,10 +355,10 @@ var glaciers = [
 	       "coordinates":  [ 8.4,46.62 ]
 	    },
 	    "properties": {
-	    "Name":"Rhone",
-	    "Region":"W. Alps",
+	    "name":"Rhone",
+	    "region":"W. Alps",
 	    "change":-1100,
-	    "Period":"1880-2010"
+	    "period":"1880-2010"
 	    }
 	  },
 	  {
@@ -368,10 +368,10 @@ var glaciers = [
 	       "coordinates":  [ 8.03,46.5 ]
 	    },
 	    "properties": {
-	    "Name":"Grosser Aletsch",
-	    "Region":"W. Alps",
+	    "name":"Grosser Aletsch",
+	    "region":"W. Alps",
 	    "change":-2700,
-	    "Period":"1880-2010"
+	    "period":"1880-2010"
 	    }
 	  },
 	  {
@@ -381,10 +381,10 @@ var glaciers = [
 	       "coordinates":  [ 13,47.03 ]
 	    },
 	    "properties": {
-	    "Name":"Wurten",
-	    "Region":"E. Alps",
+	    "name":"Wurten",
+	    "region":"E. Alps",
 	    "change":-2400,
-	    "Period":"1880-2010"
+	    "period":"1880-2010"
 	    }
 	  },
 	  {
@@ -394,10 +394,10 @@ var glaciers = [
 	       "coordinates":  [ 6.93,45.97 ]
 	    },
 	    "properties": {
-	    "Name":"Argentiere",
-	    "Region":"W. Alps",
+	    "name":"Argentiere",
+	    "region":"W. Alps",
 	    "change":-680,
-	    "Period":"1880-2010"
+	    "period":"1880-2010"
 	    }
 	  },
 	  {
@@ -407,10 +407,10 @@ var glaciers = [
 	       "coordinates":  [ 8.07,46.58 ]
 	    },
 	    "properties": {
-	    "Name":"Lower Grindelwald",
-	    "Region":"W. Alps",
+	    "name":"Lower Grindelwald",
+	    "region":"W. Alps",
 	    "change":-1100,
-	    "Period":"1880-1983"
+	    "period":"1880-1983"
 	    }
 	  },
 	  {
@@ -420,10 +420,10 @@ var glaciers = [
 	       "coordinates":  [ 8.13,61.57 ]
 	    },
 	    "properties": {
-	    "Name":"Storbreen",
-	    "Region":"Cent. Nor.",
+	    "name":"Storbreen",
+	    "region":"Cent. Nor.",
 	    "change":-1600,
-	    "Period":"1880-2010"
+	    "period":"1880-2010"
 	    }
 	  },
 	  {
@@ -433,10 +433,10 @@ var glaciers = [
 	       "coordinates":  [ 8.44,61.56 ]
 	    },
 	    "properties": {
-	    "Name":"Hellstugubreen",
-	    "Region":"Cent. Nor.",
+	    "name":"Hellstugubreen",
+	    "region":"Cent. Nor.",
 	    "change":-1200,
-	    "Period":"1901-2010"
+	    "period":"1901-2010"
 	    }
 	  },
 	  {
@@ -446,10 +446,10 @@ var glaciers = [
 	       "coordinates":  [ 18.57,67.9 ]
 	    },
 	    "properties": {
-	    "Name":"Storglaciaren",
-	    "Region":"N. Sweden",
+	    "name":"Storglaciaren",
+	    "region":"N. Sweden",
 	    "change":-760,
-	    "Period":"1891-2010"
+	    "period":"1891-2010"
 	    }
 	  },
 	  {
@@ -459,10 +459,10 @@ var glaciers = [
 	       "coordinates":  [ 18.48,67.9 ]
 	    },
 	    "properties": {
-	    "Name":"Rabots",
-	    "Region":"N. Sweden",
+	    "name":"Rabots",
+	    "region":"N. Sweden",
 	    "change":-830,
-	    "Period":"1910-2007"
+	    "period":"1910-2007"
 	    }
 	  },
 	  {
@@ -472,10 +472,10 @@ var glaciers = [
 	       "coordinates":  [ 7.36,60.53 ]
 	    },
 	    "properties": {
-	    "Name":"Rembesdalsskaka",
-	    "Region":"Cent. Nor.",
+	    "name":"Rembesdalsskaka",
+	    "region":"Cent. Nor.",
 	    "change":-1200,
-	    "Period":"1917-2010"
+	    "period":"1917-2010"
 	    }
 	  },
 	  {
@@ -485,10 +485,10 @@ var glaciers = [
 	       "coordinates":  [ 6.43,60.03 ]
 	    },
 	    "properties": {
-	    "Name":"Buerbreen",
-	    "Region":"SW. Norway",
+	    "name":"Buerbreen",
+	    "region":"SW. Norway",
 	    "change":-1500,
-	    "Period":"1880-2010"
+	    "period":"1880-2010"
 	    }
 	  }
 ];
@@ -516,8 +516,8 @@ function style(feature) {
 
 function onEachFeature(feature, layer) {
     // does this feature have a property named popupContent?
-    if (feature.properties && feature.properties.popupContent) {
-        layer.bindPopup(feature.properties.popupContent, {closeButton: false, offset: L.point(0, -20)});
+    if (feature.properties) {
+        layer.bindPopup('<h1>'+feature.properties.name+'</h1><p>Distance retreated: '+feature.properties.change+'m</p>', {closeButton: false, offset: L.point(0, -20)});
                 layer.on('mouseover', function() { layer.openPopup(); });
                 layer.on('mouseout', function() { layer.closePopup(); });
     };
