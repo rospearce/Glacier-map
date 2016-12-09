@@ -507,10 +507,10 @@ function style(feature) {
     return {
         fillColor: getColor(feature.properties.change),
         weight: 1,
-        opacity: 0.5,
+        opacity: 0.8,
         color: 'white',
-        fillOpacity: 0.8,
-			  radius: 10,
+        fillOpacity: 0.85,
+			  radius: 11,
     };
 }
 
