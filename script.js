@@ -17,7 +17,7 @@ var glaciers = [
 	    "properties": {
 	    "Name":"Hintereisferner",
 	    "Region":"E. Alps",
-	    "Change in glacier length (m)":-2800,
+	    "change":-2800,
 	    "Period":"1880-2010",
 			"popupContent": "Hintereisferner"
 	    }
@@ -31,7 +31,7 @@ var glaciers = [
 	    "properties": {
 	    "Name":"Gries",
 	    "Region":"W. Alps",
-	    "Change in glacier length (m)":-2100,
+	    "change":-2100,
 	    "Period":"1880-2010"
 	    }
 	  },
@@ -44,7 +44,7 @@ var glaciers = [
 	    "properties": {
 	    "Name":"Nigardsbreen",
 	    "Region":"W. Nor.",
-	    "Change in glacier length (m)":-3600,
+	    "change":-3600,
 	    "Period":"1880-2010"
 	    }
 	  },
@@ -57,7 +57,7 @@ var glaciers = [
 	    "properties": {
 	    "Name":"South Cascade",
 	    "Region":"N Casc. Mtns",
-	    "Change in glacier length (m)":-2300,
+	    "change":-2300,
 	    "Period":"1890-2007"
 	    }
 	  },
@@ -70,7 +70,7 @@ var glaciers = [
 	    "properties": {
 	    "Name":"Koryto",
 	    "Region":"Kamchatka",
-	    "Change in glacier length (m)":-850,
+	    "change":-850,
 	    "Period":"1880-2000"
 	    }
 	  },
@@ -83,7 +83,7 @@ var glaciers = [
 	    "properties": {
 	    "Name":"Franz Josef",
 	    "Region":"New Zea.",
-	    "Change in glacier length (m)":-3200,
+	    "change":-3200,
 	    "Period":"1880-2005"
 	    }
 	  },
@@ -96,7 +96,7 @@ var glaciers = [
 	    "properties": {
 	    "Name":"Frias",
 	    "Region":"Andes",
-	    "Change in glacier length (m)":-1700,
+	    "change":-1700,
 	    "Period":"1880-2009"
 	    }
 	  },
@@ -109,7 +109,7 @@ var glaciers = [
 	    "properties": {
 	    "Name":"Wolverine",
 	    "Region":"Kenai Mtns",
-	    "Change in glacier length (m)":-770,
+	    "change":-770,
 	    "Period":"1880-2006"
 	    }
 	  },
@@ -122,7 +122,7 @@ var glaciers = [
 	    "properties": {
 	    "Name":"Peyto",
 	    "Region":"Rocky Mtns",
-	    "Change in glacier length (m)":-2400,
+	    "change":-2400,
 	    "Period":"1897-2004"
 	    }
 	  },
@@ -135,7 +135,7 @@ var glaciers = [
 	    "properties": {
 	    "Name":"Exit",
 	    "Region":"Kenai Mtns",
-	    "Change in glacier length (m)":-2100,
+	    "change":-2100,
 	    "Period":"1880-2006"
 	    }
 	  },
@@ -148,7 +148,7 @@ var glaciers = [
 	    "properties": {
 	    "Name":"Athabasca",
 	    "Region":"Rocky Mtns",
-	    "Change in glacier length (m)":-2000,
+	    "change":-2000,
 	    "Period":"1880-1995"
 	    }
 	  },
@@ -161,7 +161,7 @@ var glaciers = [
 	    "properties": {
 	    "Name":"Saskatchewan",
 	    "Region":"Rocky Mtns",
-	    "Change in glacier length (m)":-2700,
+	    "change":-2700,
 	    "Period":"1895-1995"
 	    }
 	  },
@@ -174,7 +174,7 @@ var glaciers = [
 	    "properties": {
 	    "Name":"Nisqually",
 	    "Region":"N. Casc. Mtns",
-	    "Change in glacier length (m)":-2100,
+	    "change":-2100,
 	    "Period":"1880-2001"
 	    }
 	  },
@@ -187,7 +187,7 @@ var glaciers = [
 	    "properties": {
 	    "Name":"Blue",
 	    "Region":"Olympic Mtns",
-	    "Change in glacier length (m)":-940,
+	    "change":-940,
 	    "Period":"1880-1999"
 	    }
 	  },
@@ -200,7 +200,7 @@ var glaciers = [
 	    "properties": {
 	    "Name":"Maliy Aktru",
 	    "Region":"Altai Mtns",
-	    "Change in glacier length (m)":-440,
+	    "change":-440,
 	    "Period":"1911-2005"
 	    }
 	  },
@@ -213,7 +213,7 @@ var glaciers = [
 	    "properties": {
 	    "Name":"Djankuat",
 	    "Region":"Caucasus",
-	    "Change in glacier length (m)":-1200,
+	    "change":-1200,
 	    "Period":"1887-2010"
 	    }
 	  },
@@ -226,7 +226,7 @@ var glaciers = [
 	    "properties": {
 	    "Name":"Ts.Tuyuksuyskiy",
 	    "Region":"Tien Shan",
-	    "Change in glacier length (m)":-1100,
+	    "change":-1100,
 	    "Period":"1923-2010"
 	    }
 	  },
@@ -239,7 +239,7 @@ var glaciers = [
 	    "properties": {
 	    "Name":"Golubina",
 	    "Region":"Tien Shan",
-	    "Change in glacier length (m)":-930,
+	    "change":-930,
 	    "Period":"1880-2003"
 	    }
 	  },
@@ -252,7 +252,7 @@ var glaciers = [
 	    "properties": {
 	    "Name":"Garabashi",
 	    "Region":"Caucasus",
-	    "Change in glacier length (m)":-1600,
+	    "change":-1600,
 	    "Period":"1887-2010"
 	    }
 	  },
@@ -265,7 +265,7 @@ var glaciers = [
 	    "properties": {
 	    "Name":"Sofiyskiy",
 	    "Region":"Altai Mtns",
-	    "Change in glacier length (m)":-1700,
+	    "change":-1700,
 	    "Period":"1898-2001"
 	    }
 	  },
@@ -278,7 +278,7 @@ var glaciers = [
 	    "properties": {
 	    "Name":"Shumsky",
 	    "Region":"Dzhungarsky",
-	    "Change in glacier length (m)":-1200,
+	    "change":-1200,
 	    "Period":"1880-2010"
 	    }
 	  },
@@ -291,7 +291,7 @@ var glaciers = [
 	    "properties": {
 	    "Name":"Esperanza Norte",
 	    "Region":"N. Patagonia",
-	    "Change in glacier length (m)":-2700,
+	    "change":-2700,
 	    "Period":"1880-2007"
 	    }
 	  },
@@ -304,7 +304,7 @@ var glaciers = [
 	    "properties": {
 	    "Name":"Soler",
 	    "Region":"N. Patagonia",
-	    "Change in glacier length (m)":-980,
+	    "change":-980,
 	    "Period":"1880-2005"
 	    }
 	  },
@@ -317,7 +317,7 @@ var glaciers = [
 	    "properties": {
 	    "Name":"Torre",
 	    "Region":"S. Patagonia",
-	    "Change in glacier length (m)":-2100,
+	    "change":-2100,
 	    "Period":"1880-2007"
 	    }
 	  },
@@ -330,7 +330,7 @@ var glaciers = [
 	    "properties": {
 	    "Name":"Quelccaya (Huancane)",
 	    "Region":"Trop. Andes",
-	    "Change in glacier length (m)":-1000,
+	    "change":-1000,
 	    "Period":"1880-2010"
 	    }
 	  },
@@ -343,7 +343,7 @@ var glaciers = [
 	    "properties": {
 	    "Name":"Fox",
 	    "Region":"New Zea.",
-	    "Change in glacier length (m)":-2700,
+	    "change":-2700,
 	    "Period":"1894-2009"
 	    }
 	  },
@@ -356,7 +356,7 @@ var glaciers = [
 	    "properties": {
 	    "Name":"Rhone",
 	    "Region":"W. Alps",
-	    "Change in glacier length (m)":-1100,
+	    "change":-1100,
 	    "Period":"1880-2010"
 	    }
 	  },
@@ -369,7 +369,7 @@ var glaciers = [
 	    "properties": {
 	    "Name":"Grosser Aletsch",
 	    "Region":"W. Alps",
-	    "Change in glacier length (m)":-2700,
+	    "change":-2700,
 	    "Period":"1880-2010"
 	    }
 	  },
@@ -382,7 +382,7 @@ var glaciers = [
 	    "properties": {
 	    "Name":"Wurten",
 	    "Region":"E. Alps",
-	    "Change in glacier length (m)":-2400,
+	    "change":-2400,
 	    "Period":"1880-2010"
 	    }
 	  },
@@ -395,7 +395,7 @@ var glaciers = [
 	    "properties": {
 	    "Name":"Argentiere",
 	    "Region":"W. Alps",
-	    "Change in glacier length (m)":-680,
+	    "change":-680,
 	    "Period":"1880-2010"
 	    }
 	  },
@@ -408,7 +408,7 @@ var glaciers = [
 	    "properties": {
 	    "Name":"Lower Grindelwald",
 	    "Region":"W. Alps",
-	    "Change in glacier length (m)":-1100,
+	    "change":-1100,
 	    "Period":"1880-1983"
 	    }
 	  },
@@ -421,7 +421,7 @@ var glaciers = [
 	    "properties": {
 	    "Name":"Storbreen",
 	    "Region":"Cent. Nor.",
-	    "Change in glacier length (m)":-1600,
+	    "change":-1600,
 	    "Period":"1880-2010"
 	    }
 	  },
@@ -434,7 +434,7 @@ var glaciers = [
 	    "properties": {
 	    "Name":"Hellstugubreen",
 	    "Region":"Cent. Nor.",
-	    "Change in glacier length (m)":-1200,
+	    "change":-1200,
 	    "Period":"1901-2010"
 	    }
 	  },
@@ -447,7 +447,7 @@ var glaciers = [
 	    "properties": {
 	    "Name":"Storglaciaren",
 	    "Region":"N. Sweden",
-	    "Change in glacier length (m)":-760,
+	    "change":-760,
 	    "Period":"1891-2010"
 	    }
 	  },
@@ -460,7 +460,7 @@ var glaciers = [
 	    "properties": {
 	    "Name":"Rabots",
 	    "Region":"N. Sweden",
-	    "Change in glacier length (m)":-830,
+	    "change":-830,
 	    "Period":"1910-2007"
 	    }
 	  },
@@ -473,7 +473,7 @@ var glaciers = [
 	    "properties": {
 	    "Name":"Rembesdalsskaka",
 	    "Region":"Cent. Nor.",
-	    "Change in glacier length (m)":-1200,
+	    "change":-1200,
 	    "Period":"1917-2010"
 	    }
 	  },
@@ -486,30 +486,32 @@ var glaciers = [
 	    "properties": {
 	    "Name":"Buerbreen",
 	    "Region":"SW. Norway",
-	    "Change in glacier length (m)":-1500,
+	    "change":-1500,
 	    "Period":"1880-2010"
 	    }
 	  }
 ];
 
 function getColor(d) {
-    return d > 3000  ? '#C7432B' :
-           d > 2500  ? '#A8524B' :
-           d > 2000   ? '#8A616C' :
-           d > 1500   ? '#6B708C' :
-           d > 1000   ? '#4D7FAD' :
-					 d > 500   ? '#4D7FAD' :
+    return d < -3000  ? '#C7432B' :
+           d < -2500  ? '#AD4F46' :
+           d < -2000   ? '#945C61' :
+           d < -1500   ? '#7B697C' :
+           d < -1000   ? '#617597' :
+					 d < -500   ? '#4882B2' :
                       '#2F8FCE';
 }
 
-var geojsonMarkerOptions = {
-    radius: 8,
-    fillColor: "#ff7800",
-    color: "#000",
-    weight: 1,
-    opacity: 1,
-    fillOpacity: 0.8
-};
+function style(feature) {
+    return {
+        fillColor: getColor(feature.properties.change),
+        weight: 1,
+        opacity: 0.5,
+        color: 'white',
+        fillOpacity: 0.8,
+			  radius: 10,
+    };
+}
 
 function onEachFeature(feature, layer) {
     // does this feature have a property named popupContent?
@@ -520,7 +522,8 @@ function onEachFeature(feature, layer) {
 
 L.geoJSON(glaciers, {
     pointToLayer: function (feature, latlng) {
-        return L.circleMarker(latlng, geojsonMarkerOptions);
+        return L.circleMarker(latlng);
     },
-		onEachFeature: onEachFeature
+		onEachFeature: onEachFeature,
+		style: style
 }).addTo(mymap);
