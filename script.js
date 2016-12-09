@@ -510,7 +510,7 @@ function style(feature) {
         opacity: 0.85,
         color: 'white',
         fillOpacity: 0.85,
-			  radius: 15,
+			  radius: 13,
     };
 }
 
