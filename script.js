@@ -506,11 +506,11 @@ function getColor(d) {
 function style(feature) {
     return {
         fillColor: getColor(feature.properties.change),
-        weight: 1.5,
+        weight: 1.4,
         opacity: 0.85,
         color: 'white',
         fillOpacity: 0.85,
-			  radius: 13,
+			  radius: 12,
     };
 }
 
