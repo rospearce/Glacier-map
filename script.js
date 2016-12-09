@@ -32,7 +32,8 @@ var glaciers = [
 	    "Name":"Gries",
 	    "Region":"W. Alps",
 	    "change":-2100,
-	    "Period":"1880-2010"
+	    "Period":"1880-2010",
+			"popupContent": "Gries"
 	    }
 	  },
 	  {
@@ -508,7 +509,7 @@ function style(feature) {
         weight: 1,
         opacity: 0.5,
         color: 'white',
-        fillOpacity: 0.8,
+        fillOpacity: 0.7,
 			  radius: 10,
     };
 }
@@ -516,8 +517,10 @@ function style(feature) {
 function onEachFeature(feature, layer) {
     // does this feature have a property named popupContent?
     if (feature.properties && feature.properties.popupContent) {
-        layer.bindPopup(feature.properties.popupContent);
-    }
+        layer.bindPopup(feature.properties.popupContent, {closeButton: false, offset: L.point(0, -20)});
+                layer.on('mouseover', function() { layer.openPopup(); });
+                layer.on('mouseout', function() { layer.closePopup(); });
+    };
 }
 
 L.geoJSON(glaciers, {
@@ -527,3 +530,4 @@ L.geoJSON(glaciers, {
 		onEachFeature: onEachFeature,
 		style: style
 }).addTo(mymap);
+
