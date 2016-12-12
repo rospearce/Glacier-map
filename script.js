@@ -517,7 +517,7 @@ function style(feature) {
 function onEachFeature(feature, layer) {
     // does this feature have a property named popupContent?
     if (feature.properties) {
-        layer.bindPopup('<h1>'+feature.properties.name+'</h1>Distance retreated: '+feature.properties.change+'m<br />Period: '+feature.properties.period, {closeButton: false, offset: L.point(0, -20)});
+        layer.bindPopup('<h1>'+feature.properties.name+'</h1>Distance retreated: <b>'+feature.properties.change+'m</b><br />Period: <b>'+feature.properties.period+'</b>', {closeButton: false, offset: L.point(0, -20)});
                 layer.on('mouseover', function() { layer.openPopup(); });
                 layer.on('mouseout', function() { layer.closePopup(); });
     };
